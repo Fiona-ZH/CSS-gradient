@@ -1,5 +1,7 @@
 # CSS Modern Gradients
 
+![screenshot](screenshot.png)
+
 ## Gradient Colours
 
 * Gradient 1: #EE69FF 0%, #955AF9 100%
