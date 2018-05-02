@@ -11,7 +11,7 @@ body {
   position: relative;
   float: left;
   width: 30%;
-  height: 150px;
+  height: 200px;
   margin: 1%;
   border-radius: 10px;
   background-color: #f2f2f2;
@@ -60,7 +60,6 @@ body {
   height: 20px;
   border-radius: 10px;
   margin:0 0 0 10px;
-  background-color: #EE69FF;
 }
 
 p {
